@@ -1,2 +1,2 @@
 # Compra_Pizza_Javascript
-# Projeto Prático do curso B&Web - Javascript
+# Projeto Prático do curso B7Web - Javascript
